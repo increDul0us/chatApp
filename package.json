@@ -1,0 +1,21 @@
+{
+  "name": "simplechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "incredulous",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mongoose": "^5.4.21",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
